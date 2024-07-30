@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Pano2VR project file  -->
+<pano2vrconfig version="7.1.1a" rev="20895">
+  <panorama>
+    <id>node1</id>
+    <input>
+      <patch/>
+      <filename>New folder/church360_cube.tif</filename>
+      <type>cubefaces</type>
+      <filenamefront>church360_cube_0.tif</filenamefront>
+      <filenameright>church360_cube_1.tif</filenameright>
+      <filenameback>church360_cube_2.tif</filenameback>
+      <filenameleft>church360_cube_3.tif</filenameleft>
+      <filenametop>church360_cube_4.tif</filenametop>
+      <filenamebottom>church360_cube_5.tif</filenamebottom>
+      <levelpitch>0</levelpitch>
+      <levelroll>0</levelroll>
+      <leveltimestamp>2024-07-15T12:30:11</leveltimestamp>
+    </input>
+    <viewingparameter>
+      <pan/>
+      <tilt/>
+      <fov/>
+      <flyinstart/>
+    </viewingparameter>
+    <userdata>
+      <customprops/>
+      <capturedatetime>2019-02-21T18:46:55+02:00</capturedatetime>
+    </userdata>
+    <projectsettings>
+      <userdata>
+        <customprops/>
+      </userdata>
+      <mapgrid>
+        <anchor/>
+      </mapgrid>
+      <floorplangrid>
+        <anchor/>
+      </floorplangrid>
+      <translationsavailable>
+        <value id="Project">en-IN</value>
+      </translationsavailable>
+      <translationsnames>
+        <value id="Project">English</value>
+      </translationsnames>
+      <translationsenabled>
+        <value id="Project">true</value>
+      </translationsenabled>
+    </projectsettings>
+    <floorplans/>
+    <hotspots/>
+    <output/>
+    <streetview/>
+    <streetviewproject/>
+    <ggloudproject/>
+    <sounds/>
+    <animation>
+      <title>Animation01</title>
+    </animation>
+  </panorama>
+</pano2vrconfig>
